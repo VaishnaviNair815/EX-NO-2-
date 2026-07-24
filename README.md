@@ -126,3 +126,5 @@ int main()
 
 Output:
 <img width="1897" height="781" alt="image" src="https://github.com/user-attachments/assets/d43ffb8f-8a1b-413a-af1a-1d86541d8ce0" />
+RESULT:
+Thus C program for Playfire Cipher has been successfully completed
